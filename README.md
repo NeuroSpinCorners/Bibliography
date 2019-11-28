@@ -1,2 +1,2 @@
 # Bibliography
-Some realted papers
+Some related papers
